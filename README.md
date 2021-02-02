@@ -9,7 +9,7 @@ If you are reading this repo, I strongly suggest you do the same as well. You wi
 
 If you ever get stuck with the assignment, feel free to explore my answers but you might find it is very different from the templates.
 
-This is a very good introductory course into machine learning at a very fountain level. After completing it, you will find a lot easier to interpret and apply the modern ML libraries at a high level.
+This is a very good introductory course into machine learning at a very foundation level. After completing it, you will find a lot easier to interpret and apply the modern ML libraries at a high level.
 
 ## Contents
 * Lecture Slides
