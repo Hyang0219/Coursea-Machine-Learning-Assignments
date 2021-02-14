@@ -13,5 +13,8 @@ This is a very good introductory course into machine learning at a foundation le
 * Lecture Slides
 * Solutions to assignments 
 
+## Certificate
+http://coursera.org/verify/RM2GL9KZ9A4A
+
 ## Reference
 https://www.coursera.org/learn/machine-learning
